@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Welcome to Cloversky's! 🍀:</h1>
+  <h1>Welcome to Cloversky's! 🍀</h1>
   <div id="badges">
   <a href="https://www.linkedin.com/in/davidhermanto/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,11 +16,11 @@
   </div>
 </div>
 
-## :fast_forward: About Me
+## 📚 About Me
 
-I'm David a.k.a **Cloversky**, an aspiring game developer. 
+I'm David a.k.a 🍀 **Cloversky**, an aspiring game developer. 
 
-I first came across Unity in 2015, but never got around studying it properly until around 2018 or so, where I developed an obsession with creating games that are fun to play, fun to listen to, and fun to look at. 
+I first came across Unity in 2015, but never got around studying it properly until around 2018 or so, where I developed an obsession with creating games that are fun to play, fun to listen to, and fun to look at.
 
 You can find my public playable games here:
 
@@ -33,12 +33,15 @@ You can find my public playable games here:
 </div>
 <div></div>
 </div>
+</br>
 
-## :fast_forward: What's Here?
+I also draw and compose all the soundtracks for most of my own games. If I didn't want to be a developer, being a 🎵 Musician would be my primary dream.
+
+## ⚠️ What's Here?
 
 In my profile, you will find various game works from game jams that has gone public or other clean little tools I've made! I'll aim to release something interesting every couple of months or so.
 
-My projects ranges from simple games to absurd things that can only happen in your ✨dreams✨:.
+My projects ranges from simple games to absurd things that can only happen in your ✨dreams✨.
 
 Feel free to chat me up on any of my contact links above about any of my projects!
 
