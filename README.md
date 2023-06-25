@@ -41,7 +41,7 @@ You can find my public playable games here in the itch.io link:
 
 In my profile, you will find various game works from game jams that has gone public or other clean little tools I've made! I'll aim to release something interesting every couple of months or so.
 
-My projects ranges from simple games to absurd things that can only happen in your ✨dreams✨.
+My projects ranges from game jams to recreations of mechanics in other games.
 
 Feel free to chat me up on any of my contact links above about any of my projects!
 
