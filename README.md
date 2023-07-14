@@ -18,11 +18,11 @@
 
 ## 📚 About Me
 
-I'm David a.k.a 🍀 **Cloversky Games**, an aspiring game developer. 
+I'm David a.k.a 🍀 **Cloversky Games**. 
 
 I first came across Unity in 2015, but never got around studying it properly until around 2018 or so, where I developed an obsession with creating games that are fun to play, fun to listen to, and fun to look at.
 
-You can find my public playable games here in the itch.io link:
+You can find my public jam games here in the itch.io link:
 
 <div align="center">
 <a href="https://edenmystery.itch.io/">
@@ -35,7 +35,7 @@ You can find my public playable games here in the itch.io link:
 </div>
 </br>
 
-🎵 I also draw and compose all the soundtracks for most of my own games. If I didn't want to be a developer, being a Musician would be my primary dream.
+In times of need, I can also cover the role of an artist, composer, and sound engineer. I particularly enjoy composing.
 
 ## ⚠️ What's Here?
 
