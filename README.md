@@ -1,13 +1,13 @@
 <div id="header" align="center">
-  <h1>Welcome to Cloversky's! 🍀</h1>
+  <h1>Welcome to DevShark's!</h1>
   <div id="badges">
   <a href="https://www.linkedin.com/in/davidhermanto/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/@CloverskyGames">
+  <a href="https://www.youtube.com/@DevSharkAU">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/cloverskygames">
+  <a href="https://twitter.com/devshark_au">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   </div>
@@ -18,14 +18,14 @@
 
 ## 📚 About Me
 
-I'm David a.k.a 🍀 **Cloversky Games**. 
+I'm David a.k.a 🍀 **DevShark**. 
 
 I first came across Unity in 2015, but never got around studying it properly until around 2018 or so, where I developed an obsession with creating games that are fun to play, fun to listen to, and fun to look at.
 
 You can find my public jam games here in the itch.io link:
 
 <div align="center">
-<a href="https://edenmystery.itch.io/">
+<a href="https://devsharkau.itch.io/">
   <img src="https://img.shields.io/badge/Games-Itch.io-red" alt="Itch.io Badge"/>
 </a>
 <div>
