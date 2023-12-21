@@ -12,7 +12,7 @@
   </a>
   </div>
   <div>
-    <img src="https://komarev.com/ghpvc/?username=davidchermanto&style=flat-square&color=blue" alt=""/>
+    <img src="https://count.chiya.dev/get/@:dchmrtoo?theme=asoul&length=4" alt=":dchmrtoo" />
   </div>
 </div>
 
