@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Welcome to DevShark's!</h1>
+  <h1>Welcome to Sharks'!</h1>
   <div id="badges">
   <a href="https://www.linkedin.com/in/davidhermanto/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -18,7 +18,7 @@
 
 ## 📚 About Me
 
-I'm David a.k.a 🍀 **DevShark**. 
+I'm David a.k.a 🍀 **Shark**. 
 
 I first came across Unity in 2015, but never got around studying it properly until around 2018 or so, where I developed an obsession with creating games that are fun to play, fun to listen to, and fun to look at.
 
