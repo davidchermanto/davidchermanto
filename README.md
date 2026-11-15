@@ -18,7 +18,7 @@
 
 ## 📚 About Me
 
-I'm David a.k.a 🍀 **Shark**. 
+I'm David. 
 
 I first came across Unity in 2015, but never got around studying it properly until around 2018 or so, where I developed an obsession with creating games that are fun to play, fun to listen to, and fun to look at.
 
