@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Welcome to Sharks'!</h1>
+  <h1>Hej</h1>
   <div id="badges">
   <a href="https://www.linkedin.com/in/davidhermanto/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -10,9 +10,6 @@
   <a href="https://twitter.com/devshark_au">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  </div>
-  <div>
-    <img src="https://count.chiya.dev/get/@:dchmrtoo?theme=asoul&length=4" alt=":dchmrtoo" />
   </div>
 </div>
 
@@ -35,22 +32,13 @@ You can find my public jam games here in the itch.io link:
 </div>
 </br>
 
-In times of need, I can also cover the role of an artist, composer, and sound engineer. I particularly enjoy composing.
-
 ## ⚠️ What's Here?
 
-In my profile, you will find various game works from game jams that has gone public or other clean little tools I've made! I'll aim to release something interesting every couple of months or so.
+In my profile, you will find various game works from game jams that has gone public or other clean little tools I've made.
 
 My projects ranges from game jams to recreations of mechanics in other games.
 
-Feel free to chat me up on any of my contact links above about any of my projects!
-
-<div align="center">
-<div>
-  <img src="https://github.com/davidchermanto/arknights-roll/blob/master/Samples/SampleSim.gif" alt=""/>
-</div>
-<div></div>
-</div>
+Feel free to chat me up.
 
 ## 💻 Tech Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
